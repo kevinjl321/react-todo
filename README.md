@@ -1,4 +1,3 @@
-Simple to-do list built with React.js. Modified and completed version of TOP curriculum to-do list project.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
