@@ -12,3 +12,20 @@ a {
   color: black;
   text-decoration: none;
 }
+
+.container{
+  padding: 0 1rem;
+}
+
+.btn{
+  display: inline-block;
+  border: one;
+  background: #555;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer
+}
+
+.btn:hover{
+  background: #666;
+}
